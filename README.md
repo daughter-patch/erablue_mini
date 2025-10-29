@@ -1,0 +1,2 @@
+# erablue_mini
+erablue_resortを小さい画面で遊ぶための設定集
